@@ -1,21 +1,4 @@
 
-
-
-// function serveripclick(){
-// document.getElementById("main-menu").classList.replace("show", "hide");
-// document.getElementById("server-menu").classList.replace("hide", "show");
-// console.log("serveripclick");
-// }
-
-// function getserverip(ip){
-// document.getElementById("server-menu").classList.replace("show", "hide");
-// document.getElementById("main-menu").classList.replace("hide", "show");
-// CopyToClipboard(ip);
-// console.log("getserverip");
-
-// }
-
-
 // async function CopyToClipboard(id){
 // 	var copyText = document.getElementById(id);
 // 	copyText.select();
